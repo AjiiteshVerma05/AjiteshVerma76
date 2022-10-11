@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AjiteshVerma76
-- 👀 I’m interested in Programmming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java,C#
 
 
